@@ -1,7 +1,6 @@
 import streamlit as st
 from gradio_client import Client
 import pandas as pd
-import matplotlib.pyplot as plt
 import base64
 import io
 
