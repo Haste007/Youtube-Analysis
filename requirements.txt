@@ -1,6 +1,5 @@
 streamlit
 gradio_client
 pandas
-matplotlib.pyplot
 base64
 io
